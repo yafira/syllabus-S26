@@ -33,14 +33,6 @@ This studio course introduces students to the culture and practice of open sourc
 - [OSSTA-Zine](https://github.com/galaxykate/OSSTA-Zine) by Kate Compton
 - [Introducing Yourself to Unfamiliar Open Source Projects](http://melchua.org/2013/06/20/hacker-school-introducing-yourself-to-unfamiliar-open-source-projects/) by Mel Chua
 
-### Assignment:
-
-- Open an issue in the [Open Source Studio Playground](...) [LINK TO COME]
-- Create a pull request in the [Open Source Studio Playground](...) [LINK TO COME].
-- Comment on at least one other issue / pull request.
-- Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
-  - Name: [Title](url)
-
 ## Week 2: More Version Control and Project Management, 3/30
 
 ### Case Study: ml5.js
@@ -72,7 +64,11 @@ This studio course introduces students to the culture and practice of open sourc
 
 ### Assignment
 
-- TBD
+- Open an issue in the [Open Source Studio Playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26)
+- Create a pull request in the [Open Source Studio Playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26)
+- Comment on at least one other issue / pull request.
+- Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
+  - Name: [Title](url)
 
 ## Week 3: Community, 4/6
 
