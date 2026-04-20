@@ -39,6 +39,12 @@ Come to class ready to present your proposal. Before class:
 Pull request a link to your proposal below:
 
 - Amanda Goo: [Langfuse JS + Gemini Tracing Cookbooks](https://github.com/langfuse/langfuse-docs/issues/2822)    
+- Fabrizio Guccione: [OpenCharm](https://github.com/FabriGu/OpenCharm)
+- Name: [Title](url)
+- Ziyi Yuan: [Touchdesigner Kinect gesture&Python Print](https://github.com/Tiffany2603/TD-gesture-print)
+- [Rajeshwari — UX Emotion-to-Color Mapping dataset for Corpora](https://github.com/dariusk/corpora/pull/440)
+- Althea: [Altheafinalproposal](https://docs.google.com/document/d/1R0wL39g59g8wUFMQz7Qx1LjJrNPLsvX8JmVArumSO5Q/edit?tab=t.0)
+- Sihong: [ResumeBase](https://github.com/Helena-Q1111/ResumeBase)
 
 ### 2: Development Studio, 4/27
 
