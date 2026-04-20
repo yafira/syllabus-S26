@@ -38,7 +38,7 @@ Come to class ready to present your proposal. Before class:
 
 Pull request a link to your proposal below:
 
-- Name: [Title](url)
+- Fabrizio Guccione: [OpenCharm](https://github.com/FabriGu/OpenCharm)
 
 ### 2: Development Studio, 4/27
 
